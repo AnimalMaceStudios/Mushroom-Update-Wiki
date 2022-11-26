@@ -1,0 +1,65 @@
+{
+	"itemGroup.mushroom.root": "Mushroom Update",
+
+	"item.mushroom.music_disc_twilight": "Music Disc",
+	"item.mushroom.music_disc_twilight.desc": "Twilight",
+	"item.mushroom.shroom_glider": "Shroom Glider",
+	"item.mushroom.puff_spores": "Puff Spores",
+	"item.mushroom.glow_mushroom_stew": "Glow Mushroom Stew",
+	"item.mushroom.shroom_pal_spawn_egg": "Shroom Pal Spawn Egg",
+	"item.mushroom.puff_creeper_spawn_egg": "Puff Creeper Spawn Egg",
+	"item.mushroom.glow_mooshroom_spawn_egg": "Glow Mooshroom Spawn Egg",
+	"item.mushroom.glowfly_spawn_egg": "Glowfly Spawn Egg",
+
+	"block.mushroom.glow_mushroom": "Glow Mushroom",
+	"block.mushroom.glow_mushroom_block": "Glow Mushroom Block",
+	"block.mushroom.potted_glow_mushroom": "Potted Glow Mushroom",
+	"block.mushroom.glowfly_glass": "Glowfly in glass",
+
+	"entity.mushroom.shroom_pal": "Shroom Pal",
+	"entity.mushroom.puff_creeper": "Puff Creeper",
+	"entity.mushroom.glow_mooshroom": "Glow Mooshroom",
+	"entity.mushroom.glowfly": "Glowfly",
+
+	"biome.mushroom.shroom_caves": "Shroom Caves",
+	"biome.mushroom.glowing_shroom_caves": "Glowing Shroom Caves",
+
+	"advancements.husbandry.mushroom.make_shroom_pal_consume.title": "Saprotrophic Pals",
+	"advancements.husbandry.mushroom.make_shroom_pal_consume.description": "Make a Shroom Pal consume crops",
+	"advancements.husbandry.mushroom.make_shroom_pal_big.title": "Old Friend",
+	"advancements.husbandry.mushroom.make_shroom_pal_big.description": "Have a Shroom Pal consume 50 crops, making it an adult",
+	"advancements.husbandry.mushroom.glider_land_with_parrot.title": "Calm Flight Attendant",
+	"advancements.husbandry.mushroom.glider_land_with_parrot.description": "Land with a Shroom Glider when it has less than 5 durability while a Parrot is on your shoulder",
+	"advancements.husbandry.mushroom.drink_colored_glow_stew.title": "§1C§2o§3l§4o§5r§6m§7a§8t§9i§ac",
+	"advancements.husbandry.mushroom.drink_colored_glow_stew.description": "Drink a colored Glow Mushroom Stew",
+	"advancements.adventure.mushroom.spyglass_at_glowfly.title": "Is It the Wild Update?",
+	"advancements.adventure.mushroom.spyglass_at_glowfly.description": "Look at a Glowfly through a Spyglass",
+	"advancements.adventure.mushroom.glowfly_regenerate_full.title": "Hopes and Dreams",
+	"advancements.adventure.mushroom.glowfly_regenerate_full.description": "Use Glowflies to heal 20 HP",
+	"advancements.adventure.mushroom.glowfly_in_a_glass.title": "Watch out!",
+	"advancements.adventure.mushroom.glowfly_in_a_glass.description": "Catch a Glowfly with a Glass Bottle",
+	"advancements.nether.mushroom.brew_puffed_potion.title": "Something stinks here",
+	"advancements.nether.mushroom.brew_puffed_potion.description": "Poison a potion with puff spores",
+
+	"stat.mushroom.glowfly_health_gained": "Glowfly Health Gained",
+
+	"subtitles.entity.mushroom.puff_creeper.death": "Puff Creeper dies",
+	"subtitles.entity.mushroom.puff_creeper.hurt": "Puff Creeper hurts",
+	"subtitles.entity.mushroom.puff_creeper.puff": "Puff Creeper puffs",
+
+	"subtitles.entity.mushroom.shroom_pal.death": "Shroom Pal dies",
+	"subtitles.entity.mushroom.shroom_pal.death_big": "Big Shroom Pal dies",
+	"subtitles.entity.mushroom.shroom_pal.hurt": "Shroom Pal hurts",
+	"subtitles.entity.mushroom.shroom_pal.hurt_big": "Big Shroom Pal hurts",
+	"subtitles.entity.mushroom.shroom_pal.harvest": "Shroom Pal harvests",
+	"subtitles.entity.mushroom.shroom_pal.harvest_big": "Big Shroom Pal harvests",
+	"subtitles.entity.mushroom.shroom_pal.ambient": "Shroom Pal squeaks",
+	"subtitles.entity.mushroom.shroom_pal.ambient_big": "Big Shroom Pal squeaks",
+	"subtitles.entity.mushroom.shroom_pal.step": "Shroom Pal steps",
+	"subtitles.entity.mushroom.shroom_pal.step_big": "Big Shroom Pal steps",
+	"subtitles.entity.mushroom.shroom_pal.grow": "Shroom Pal grows",
+
+	"subtitles.item.mushroom.shroom_glider.gliding": "Shroom Glider glides",
+	"subtitles.item.mushroom.shroom_glider.close": "Shroom Glider closes",
+	"subtitles.item.mushroom.shroom_glider.equip": "Shroom Glider equips"
+}
